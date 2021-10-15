@@ -1,0 +1,5 @@
+git config --global alias.s "status"
+git config --global alias.lol "log --oneline"
+git config --global alias.l "log"
+git config --global alias.cm "commit -m"
+git config --global alias.cam "commit -am"
